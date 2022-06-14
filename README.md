@@ -4,7 +4,7 @@
 - 👍 Email de contato: vinicius.costa.santiago@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender coisas novas
 - 🌱 Eu estou aprendendo atualmente, programação de jogos
-- 💞️ Estou procurando colaborar na programção de jogos em grandes empresas
+- 💞️ Estou procurando colaborar na programação de jogos em grandes empresas
 
 
 <!---
